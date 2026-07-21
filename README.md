@@ -14,7 +14,8 @@ Detailed technical report with all steps, logs, and screenshots here:
 
 
 ## Network Topology
-<img width="580" height="521" alt="Diagrama sem nome drawio (1)" src="https://github.com/user-attachments/assets/2cfc42b0-42e4-4715-bd3b-643dfcca4748" />
+<img width="580" height="541" alt="diagramaprojeto drawio" src="https://github.com/user-attachments/assets/6305b401-e12e-40f5-86a6-23344ece7517" />
+
 
 
 ---
