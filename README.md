@@ -8,13 +8,14 @@ This project simulates a luxury yacht's security ecosystem, utilizing **Wazuh SI
 ## Full Documentation
 Detailed technical report with all steps, logs, and screenshots here:
 
-* Download Technical Report - Volume 1 (PDF): [technical_report_vol1.pdf](https://github.com/user-attachments/files/29900829/technical_report_vol1.pdf)
+* Download Technical Report - Volume 1 (PDF):[technical.report.vol1..pdf](https://github.com/user-attachments/files/30282403/technical.report.vol1.pdf)
 * Download Technical Report - Volume 2 (PDF): [technical_report_vol2.pdf](https://github.com/user-attachments/files/29901431/technical_report_vol2.pdf)
 * Download Technical Report - Volume 3 (PDF): [technical_report_vol3.pdf](https://github.com/user-attachments/files/29902676/technical_report_vol3.pdf)
 
 
 ## Network Topology
-<img width="580" height="541" alt="diagramaprojeto drawio" src="https://github.com/user-attachments/assets/6305b401-e12e-40f5-86a6-23344ece7517" />
+<img width="681" height="1201" alt="diagramavol3 drawio" src="https://github.com/user-attachments/assets/b4e9784f-9c16-404c-b0c4-43c970a0fe60" />
+
 
 
 
